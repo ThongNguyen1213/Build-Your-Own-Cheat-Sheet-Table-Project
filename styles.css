@@ -1,0 +1,35 @@
+table{
+    border-top: 2px solid blueviolet;
+    border-bottom:2px solid blueviolet;
+    border-left: 2px solid blueviolet;
+    border-right: 2px solid blueviolet;
+  }
+  td{
+    border-top:1px solid blueviolet;
+  }
+ thead{
+   font-weight: bold;
+   text-align: center;
+   background-color: plum;
+   font-size: 17px;
+   font-family: Helvetica;
+ }
+ 
+ .highlight{
+   background-color:oldlace;
+    padding:0.0000001em 0.0001em
+    font-size: 0.5px;
+    margin-right: 20px;
+ }
+ tbody{
+   font-family: Helvetica;
+ }
+ .name-column{
+   margin-right: 70px;
+ }
+ .description-span{
+   margin-right: 160px;
+ }
+ span{
+   font-size:12px;
+ }
